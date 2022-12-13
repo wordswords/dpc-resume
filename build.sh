@@ -1,7 +1,12 @@
 #!/bin/bash
 set -e
-docker run -v ${PWD}:/resume there4/markdown-resume md2resume --template=blockish html CV.md .
-docker run -v ${PWD}:/resume there4/markdown-resume md2resume --ansi pdf CV.md .
-sudo cp CV.html /mnt/c/Users/conta/Desktop
-sudo cp CV.pdf /mnt/c/Users/conta/Desktop
+sudo docker run -v ${PWD}:/resume there4/markdown-resume md2resume --template=swissen --ansi html CV.md .
+python3 -m http.server &
+cp -r ./puppeteer /tmp/dpc-resume
+sudo chmod -R 777 /tmp/dpc-resume
+cd /tmp/dpc-resume
+sudo docker run -i --init --network="host" --cap-add=SYS_ADMIN --rm -v $(pwd):/tmp:rw ghcr.io/puppeteer/puppeteer:latest node /tmp/index.js
+cd -
+cp /tmp/dpc-resume/cv.pdf .
+
 
