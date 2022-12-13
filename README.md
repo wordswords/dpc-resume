@@ -15,4 +15,8 @@ Ubuntu install with Python 3, Docker and the latest node.
 1. Edit `CV.md` to your liking
 2. Run the `build.sh` script to build the CV from CV.markdown
 
+# My Current Resume / CV
 
+* In Markdown - (https://github.com/wordswords/dpc-resume/blob/master/CV.md)[https://github.com/wordswords/dpc-resume/blob/master/CV.md]
+* In HTML - (https://github.com/wordswords/dpc-resume/blob/master/CV.html)[https://github.com/wordswords/dpc-resume/blob/master/CV.html]
+* In PDF (https://github.com/wordswords/dpc-resume/blob/master/cv.pdf)[https://github.com/wordswords/dpc-resume/blob/master/cv.pdf]
