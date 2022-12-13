@@ -8,5 +8,6 @@ cd /tmp/dpc-resume
 sudo docker run -i --init --network="host" --cap-add=SYS_ADMIN --rm -v $(pwd):/tmp:rw ghcr.io/puppeteer/puppeteer:latest node /tmp/index.js
 cd -
 cp /tmp/dpc-resume/cv.pdf .
+rm -rf /tmp/dpc-resume
 
 
