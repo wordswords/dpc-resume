@@ -4,9 +4,11 @@
 
 This is a quick hacky script to generate my CV in HTML and PDF formats from a markdown file I maintain.
 
+It uses docker containers from Puppeteer (to convert HTML to PDF) and https://github.com/there4/markdown-resume (to convert Markdown to HTML).
+
 ## Requirements
 
-Ubuntu install with Python 3, Docker and the latest node
+Ubuntu install with Python 3, Docker and the latest node.
 
 ## Usage
 
