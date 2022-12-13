@@ -38,7 +38,7 @@ ___November 2020 -> March 2021___
 contractor. Learned a lot about React and Node.js software development.
 
 ITV Plc
-: *QA Engineer (ITV)*
+: *QA Engineer*
 ___October 2019 -> November 2020___
 * Working on exploratory testing and automated testing for the accounting system
 that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber,
