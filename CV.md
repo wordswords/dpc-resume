@@ -77,11 +77,11 @@ ___2001 -> 2005___
 
 Open University
 : *Modules in Linux, Java and Maths for Science*
-___2010-2013___
+___2010 -> 2013___
 
 Point Blank Music School
 : *Modules in Music Composition, Sound Design and Mixdown*
-___2019-Present___
+___2019 -> Present___
 
 ------
 
