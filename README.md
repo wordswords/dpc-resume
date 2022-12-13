@@ -13,7 +13,7 @@ Ubuntu install with Python 3, Docker and the latest node.
 ## Usage
 
 1. Edit `CV.md` to your liking
-2. Run the `build.sh` script to build the CV from CV.markdown
+2. Run the `build.sh` script to build the CV from `CV.md`
 
 # My Current Resume / CV
 
