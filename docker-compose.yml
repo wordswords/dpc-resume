@@ -1,0 +1,23 @@
+version: '3'
+services:
+  markdown-html-resume:
+    user: "${uUID}:${uGID}"
+    image: there4/markdown-resume:latest
+    volumes:
+      - ./:/tmp
+    command: md2resume --template=swissen --ansi html /tmp/CV.md /tmp/
+
+  puppeteer-pdf-resume:
+    init: true
+    user: "${uUID}:${uGID}"
+    image: ghcr.io/puppeteer/puppeteer:latest
+    network_mode: "host"
+    cap_add: ['SYS_ADMIN']
+    working_dir: "/home/pptuser/puppeteer"
+    volumes:
+      - ./puppeteer:/home/pptuser/puppeteer
+    environment:
+      - PUPPETEER_CACHE_DIR=/home/pptuser/puppeteer/.cache
+    command: bash -c 'npm install && node ./index.js'
+
+
