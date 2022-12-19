@@ -8,12 +8,13 @@ It uses docker containers from Puppeteer (to convert HTML to PDF) and https://gi
 
 ## Requirements
 
-Ubuntu install with Python 3, Docker and the latest node.
+Ubuntu install with Python 3, Docker, Docker compose, and the latest node.
 
 ## Usage
 
 1. Edit `CV.md` to your liking
-2. Run the `build.sh` script to build the CV from `CV.md`
+2. Run the `build-md2resume.sh` script to build the HTML CV from `CV.md`
+3. Run the `build-puppeteer.sh` script to build the PDF CV from `CV.md`
 
 # My Current Resume / CV
 
