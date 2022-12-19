@@ -10,9 +10,10 @@ const puppeteer = require('puppeteer');
     });
 
     await page.pdf({
-        path: '/tmp/cv.pdf',
+        path: '/home/pptuser/puppeteer/cv.pdf',
         format: 'letter',
     });
 
     await browser.close();
 })();
+
