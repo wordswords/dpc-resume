@@ -24,12 +24,12 @@ Myself
 : *Career Break + Setting up Side-Line Business*
 ___March 2021 -> July 2021___
 * Following experiencing COVID-19, after 16 years in the software industry, I gave myself a
-career break. During this time I set up two small businesses: DavidCraddockTutor.com - Tutoring for students of Computing and Software
-Engineering. 1-2-1 remote tuition over Skype/Zoom or equivalent. DavidCraddockAudio.com - This is an umbrella for paid music industry
+career break. During this time I set up two small businesses: [DavidCraddockTutor.com](https://DavidCraddockTutor.com) - Tutoring for students of Computing and Software
+Engineering. 1-2-1 remote tuition over Skype/Zoom or equivalent. [DavidCraddockAudio.com](https://DavidCraddockAudio.com) - This is an umbrella for paid music industry
 commitments, which I have been doing for over 10 years. Currently, I am making
 money DJing every week on Twitch.tv, after having built up my stream extensively. I also
 undertook several DJ sets for charity. My 8 hour marathon DJ Charity stream for
-my birthday in May 2021 raised over 230 pounds for charity.
+my birthday in May 2021 raised over 230 pounds for charity. I also worked on [my VIM9 heavily customised development environment](https://github.com/wordswords/dotfiles), which I am keen to use in all future work.
 
 Carbon Co-Op
 : *Contract Software Engineer*
@@ -55,7 +55,7 @@ BBC
 : *Senior Software Engineer*
 ___September 2010 -> June 2017___
 * I spent almost 7 years working at the BBC as a Senior Software Engineer. I
-worked in several teams. I took a Senior Engineer role in Hive CI, a continuous integration system to automate
+worked in several teams. I took a Senior Engineer role in [Hive CI](https://github.com/bbc/hive-ci), a continuous integration system to automate
 mobile and smart TV device testing. This involved development in Node.js and
 Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS,
 Android, iOS, Linux, Bash, Ruby. I spent a year working as a Test Manager and leading a team of 3 contractors,
