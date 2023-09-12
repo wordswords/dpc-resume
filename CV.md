@@ -5,11 +5,23 @@
 
 ### Profile {#profile}
 
-Hugely experienced Senior Software Engineer with nearly 20 years experience in Software Development, Test Engineering and DevOps.
+
+Highly experienced Senior Software Engineer generalist with 20 years experience.
+
+Very experienced music professional, with 15 years paid work in the music industry.
 
 ------
 
 ### Recent Experience {#experience}
+
+Self Employed
+: *DJ David Craddock / Socialist Synthesis*
+___June 2006 -> Current___
+DJ and music producer for over 15 years.
+DJing to hundreds weekly as a resident DJ for several years.
+Produced three albums, with stints in mobile work and also being paid to design and build music studios.
+Currently getting paid every week to DJ from my living room studio on Twitch.tv.
+See: https://davidcraddockaudio.com
 
 Kaboodle Ltd
 : *Senior Automation Engineer*
@@ -19,17 +31,6 @@ solutions. Working in the DevOps team, I used Docker, Docker Compose, GitHub Act
 Cypress.io, Postman, Newman and Node.js to implement test automation and
 software development DevOps, with an objective of allowing the team to deliver
 faster and more accurately. I developed an extensive testing strategy for the entire organisation.
-
-Myself
-: *Career Break + Setting up Side-Line Business*
-___March 2021 -> July 2021___
-* Following experiencing COVID-19, after 16 years in the software industry, I gave myself a
-career break. During this time I set up two small businesses: [DavidCraddockTutor.com](https://DavidCraddockTutor.com) - Tutoring for students of Computing and Software
-Engineering. 1-2-1 remote tuition over Skype/Zoom or equivalent. [DavidCraddockAudio.com](https://DavidCraddockAudio.com) - This is an umbrella for paid music industry
-commitments, which I have been doing for over 10 years. Currently, I am making
-money DJing every week on Twitch.tv, after having built up my stream extensively. I also
-undertook several DJ sets for charity. My 8 hour marathon DJ Charity stream for
-my birthday in May 2021 raised over 230 pounds for charity. I also worked on [my VIM9 heavily customised development environment](https://github.com/wordswords/dotfiles), which I am keen to use in all future work.
 
 Carbon Co-Op
 : *Contract Software Engineer*
