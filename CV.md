@@ -5,23 +5,27 @@
 
 ### Profile {#profile}
 
-
-Highly experienced Senior Software Engineer generalist with 20 years experience.
-
-Very experienced music professional, with 15 years paid work in the music industry.
+Highly experienced Senior DevOps Engineer with 20 years software experience.
 
 ------
 
 ### Recent Experience {#experience}
 
-Self Employed
-: *DJ David Craddock / Socialist Synthesis*
-___June 2006 -> Current___
-DJ and music producer for over 15 years.
-DJing to hundreds weekly as a resident DJ for several years.
-Produced three albums, with stints in mobile work and also being paid to design and build music studios.
-Currently getting paid every week to DJ from my living room studio on Twitch.tv.
-See: https://davidcraddockaudio.com
+CGI UK Ltd
+: *Senior CloudOps Engineer*
+___March 2024 -> Present___
+* Undertook study for AWS Architect Associate Certificate, which I am currently looking to take the exam for
+* Mentored and inducted a junior engineer
+* Learned a lot about the culture of a giant Software Engineering Consultancy  
+
+Sabbatical
+: *Personal Projects*
+___February 2023 -> Febrary 2024___
+* Beat cancer (full remission, cured)
+* Worked on upskilling on personal projects such as my 10Gb/sec home network:
+  ([https://davidcraddock.net/](https://davidcraddock.net/my-home-network/))
+* Worked on building out my VWorkbench project, a extensive Linux development environment, with a view to opensourcing it:
+  ([https://github.com/wordswords/dotfiles.git](https://github.com/wordswords/dotfiles.git))
 
 Kaboodle Ltd
 : *Senior Automation Engineer*
@@ -72,21 +76,29 @@ deployments.
 
 ### Education {#experience}
 
+Royal Holloway, University of London (distance learning in ny free time while working)
+: *MSc Cyber Security - 4 year part-time 25% intensity distance learning course*
+___2024 -> Present___
+
 Sussex University
 : *BSc(Hons) Computer Science and Artificial Intelligence*
 ___2001 -> 2005___
 
-Open University
+Open University (distance learning in ny free time while working)
 : *Modules in Linux, Java and Maths for Science*
 ___2010 -> 2013___
 
-Point Blank Music School
-: *Modules in Music Composition, Sound Design and Mixdown*
-___2019 -> Present___
+Point Blank Music School (distance learning in ny free time while working)
+: *Undergrad level modules in Music Composition, Sound Design and Mixdown*
+___2019 -> 2024___
 
 ------
 
 ### Testimonials {#experience}
+
+CGI UK Ltd
+: 'Lloyd Swale / Software Engineer'
+"David made an invaluable contribution to my start at CGI."
 
 Kaboodle Ltd
 : *Robert Godwin / QA Lead*
