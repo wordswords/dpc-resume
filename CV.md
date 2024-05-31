@@ -26,6 +26,8 @@ ___February 2023 -> Febrary 2024___
   ([https://davidcraddock.net/](https://davidcraddock.net/my-home-network/))
 * Worked on building out my VWorkbench project, a extensive Linux development environment, with a view to opensourcing it:
   ([https://github.com/wordswords/dotfiles.git](https://github.com/wordswords/dotfiles.git))
+* Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
+of money for charity from my home music studio
 
 Kaboodle Ltd
 : *Senior Automation Engineer*
