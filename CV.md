@@ -11,12 +11,16 @@ Highly experienced Senior DevOps Engineer with 20 years software experience.
 
 ### Recent Experience {#experience}
 
+BAE Systems
+: *Principal Test Automation Engineer*
+___July 2024 -> Present___
+
 CGI UK Ltd
 : *Senior CloudOps Engineer*
-___March 2024 -> Present___
+___March 2024 -> June 2024
 * Undertook study for AWS Architect Associate Certificate, which I am currently looking to take the exam for
 * Mentored and inducted a junior engineer
-* Learned a lot about the culture of a giant Software Engineering Consultancy  
+* Found it was not the right role for me, and left to pursue other opportunities
 
 Sabbatical
 : *Personal Projects*
