@@ -103,7 +103,7 @@ ___2019 -> 2024___
 ### Testimonials {#experience}
 
 CGI UK Ltd
-: 'Lloyd Swale / Software Engineer'
+: *Lloyd Swale / Software Engineer*
 "David made an invaluable contribution to my start at CGI."
 
 Kaboodle Ltd
