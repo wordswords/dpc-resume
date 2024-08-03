@@ -82,7 +82,7 @@ deployments.
 
 ### Education {#experience}
 
-Royal Holloway, University of London (distance learning in ny free time while working)
+Royal Holloway, University of London
 : *MSc Cyber Security - 4 year part-time 25% intensity distance learning course*
 ___2024 -> Present___
 
@@ -90,11 +90,11 @@ Sussex University
 : *BSc(Hons) Computer Science and Artificial Intelligence*
 ___2001 -> 2005___
 
-Open University (distance learning in ny free time while working)
+Open University
 : *Modules in Linux, Java and Maths for Science*
 ___2010 -> 2013___
 
-Point Blank Music School (distance learning in ny free time while working)
+Point Blank Music School
 : *Undergrad level modules in Music Composition, Sound Design and Mixdown*
 ___2019 -> 2024___
 
