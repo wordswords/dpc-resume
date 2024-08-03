@@ -95,7 +95,7 @@ Open University
 ___2010 -> 2013___
 
 Point Blank Music School
-: *Undergrad level modules in Music Composition, Sound Design and Mixdown*
+: *Core Modules in BA Sound Engineering & Music Production*
 ___2019 -> 2024___
 
 ------
