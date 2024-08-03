@@ -17,10 +17,11 @@ ___July 2024 -> Present___
 
 CGI UK Ltd
 : *Senior CloudOps Engineer*
-___March 2024 -> June 2024
-* Undertook study for AWS Architect Associate Certificate, which I am currently looking to take the exam for
-* Mentored and inducted a junior engineer
-* Found it was not the right role for me, and left to pursue other opportunities
+___March 2024 -> June 2024___
+
+1) Undertook study for AWS Architect Associate Certificate, which I am currently looking to take the exam for
+2) Mentored and inducted a junior engineer
+3) Found it was not the right role for me, and left to pursue other opportunities
 
 Sabbatical
 : *Personal Projects*
