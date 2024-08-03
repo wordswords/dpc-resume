@@ -5,7 +5,7 @@
 
 ### Profile {#profile}
 
-Highly experienced Senior DevOps Engineer with 20 years software experience.
+Highly experienced Senior DevTestOps Engineer with 20 years software experience.
 
 ------
 
@@ -18,7 +18,6 @@ ___July 2024 -> Present___
 CGI UK Ltd
 : *Senior CloudOps Engineer*
 ___March 2024 -> June 2024___
-
 1) Undertook study for AWS Architect Associate Certificate, which I am currently looking to take the exam for
 2) Mentored and inducted a junior engineer
 3) Found it was not the right role for me, and left to pursue other opportunities
