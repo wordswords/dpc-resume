@@ -25,12 +25,10 @@ ___March 2024 -> June 2024
 Sabbatical
 : *Personal Projects*
 ___February 2023 -> Febrary 2024___
-* Beat cancer (full remission, cured)
-* Worked on upskilling on personal projects such as my 10Gb/sec home network:
-  ([https://davidcraddock.net/](https://davidcraddock.net/my-home-network/))
-* Worked on building out my VWorkbench project, a extensive Linux development environment, with a view to opensourcing it:
-  ([https://github.com/wordswords/dotfiles.git](https://github.com/wordswords/dotfiles.git))
-* Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
+1) Beat cancer (full remission, cured)
+2) Worked on upskilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/))
+3) Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/dotfiles.git))
+4) Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
 of money for charity from my home music studio
 
 Kaboodle Ltd
