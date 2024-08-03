@@ -83,7 +83,7 @@ deployments.
 ### Education {#experience}
 
 Royal Holloway, University of London
-: *MSc Cyber Security - 4 year part-time 25% intensity distance learning course*
+: *MSc Cyber Security - 4 year low intensity distance learning*
 ___2024 -> Present___
 
 Sussex University
