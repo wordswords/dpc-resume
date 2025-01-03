@@ -13,13 +13,11 @@ Experienced Senior DevOps engineer looking for DevSecOps roles
 Royal Holloway, University of London
 : *MSc Cyber Security distance student*
 ___Sept 2024 -> Present___
-
 * Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform.
 
 Various
 : *Principal Consulting Engineer*
 ___Jan 2024 -> Oct 2024___
-
 * Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
 * Up-skilled in cloud and DevOps technologies, including studying for the AWS Architect Associate Certification.
 * Decided that the atmosphere was not for me, and left to pursue other opportunities.
@@ -27,7 +25,6 @@ ___Jan 2024 -> Oct 2024___
 Sabbatical
 : *Personal Projects*
 ___Feb 2023 -> Jan 2024___
-
 1) Beat cancer (full remission, cured)
 2) Worked on up-skilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
 3) Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/vWorkbench.git)
@@ -37,27 +34,23 @@ of money for charity from my home music studio
 Kaboodle Ltd
 : *Senior DevOps Automation Engineer*
 ___Jan 2021 -> Jan 2023___
-
 * Working in the DevOps team, I used Docker, Docker Compose, GitHub Actions, Jenkins, Cypress.io, Postman, Newman and Node.js to implement test automation and software development DevOps, with an objective of allowing the team to deliver faster and more accurately.
 * I developed an extensive and advanced technical testing strategy for the entire organisation.
 
 ITV Plc
 : *QA Engineer*
 ___October 2019 -> November 2020___
-
 * Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.
 
 Arm Ltd (now NVIDIA)
 : *Senior DevOps/Test Engineer*
 ___June 2017 -> October 2019___
-
 * A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
 * I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.
 
 BBC
 : *Senior Software Engineer*
 ___September 2010 -> June 2017___
-
 * I spent almost 7 years working at the BBC as a Senior Software Engineer. I worked in several teams. I took a Senior Engineer role in [Hive CI](https://github.com/bbc/hive-ci), a continuous integration system to automate mobile and smart TV device testing. This involved development in Node.js and Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS, Android, iOS, Linux, Bash, Ruby. I spent a year working as a Test Manager and leading a team of 3 contractors, being responsible for their output. I worked as a Software Engineer on high volume Smart TV web applications using Java/Spring/Tomcat, using BDD with Ruby/Cucumber and TDD with JUnit and Mockito. I worked as a Software Reliability Engineer on the broadcast end of the BBC's architecture, maintaining and supporting the uptime of systems which served up content that is delivered on live BBC TV. I patched these systems in Java, Perl and MHEG, and did a lot of work reconfiguring and supporting these deployments.
 
 ### Education {#experience}
