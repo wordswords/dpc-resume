@@ -52,7 +52,9 @@ ___June 2017 -> October 2019___
 BBC
 : *Senior Software Engineer*
 ___September 2010 -> June 2017___
-1) I spent almost 7 years working at the BBC as a Senior Software Engineer. I worked in several teams. I took a Senior Engineer role in [Hive CI](https://github.com/bbc/hive-ci), a continuous integration system to automate mobile and smart TV device testing. This involved development in Node.js and Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS, Android, iOS, Linux, Bash, Ruby. I spent a year working as a Test Manager and leading a team of 3 contractors, being responsible for their output. I worked as a Software Engineer on high volume Smart TV web applications using Java/Spring/Tomcat, using BDD with Ruby/Cucumber and TDD with JUnit and Mockito. I worked as a Software Reliability Engineer on the broadcast end of the BBC's architecture, maintaining and supporting the uptime of systems which served up content that is delivered on live BBC TV. I patched these systems in Java, Perl and MHEG, and did a lot of work reconfiguring and supporting these deployments.
+1) I spent almost 7 years working at the BBC as a Senior Software Engineer. I worked in several teams. I took a Senior Engineer role in [Hive CI](https://github.com/bbc/hive-ci), a continuous integration system to automate mobile and smart TV device testing. This involved development in Node.js and Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS, Android, iOS, Linux, Bash, Ruby.
+2) I spent a year working as a Test Manager and leading a team of 3 contractors, being responsible for their output. I worked as a Software Engineer on high volume Smart TV web applications using Java/Spring/Tomcat, using BDD with Ruby/Cucumber and TDD with JUnit and Mockito.
+3) I worked as a Software Reliability Engineer on the broadcast end of the BBC's architecture, maintaining and supporting the uptime of systems which served up content that is delivered on live BBC TV. I patched these systems in Java, Perl and MHEG, and did a lot of work reconfiguring and supporting these deployments.
 
 ### Education {#experience}
 
