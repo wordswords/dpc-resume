@@ -4,14 +4,14 @@
 
 ### Profile {#profile}
 
-Experienced Senior DevOps engineer looking for DevSecOps / Red Team Cyber Security roles.
+Experienced Senior DevOps engineer looking for DevSecOps roles
 
 ------
 
 ### Recent Experience {#experience}
 
 Royal Holloway, University of London
-: *MSc Cyber Security - 4 year low intensity distance learning student*
+: *MSc Cyber Security distance student*
 ___Sept 2024 -> Present___
 
 * Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform.
@@ -21,7 +21,7 @@ Various
 ___Jan 2024 -> Oct 2024___
 
 * Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
-* Upskilled in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
+* Up-skilled in cloud and DevOps technologies, including studying for the AWS Architect Associate Certification.
 * Decided that the atmosphere was not for me, and left to pursue other opportunities.
 
 Sabbatical
@@ -29,7 +29,7 @@ Sabbatical
 ___Feb 2023 -> Jan 2024___
 
 1) Beat cancer (full remission, cured)
-2) Worked on upskilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
+2) Worked on up-skilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
 3) Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/vWorkbench.git)
 4) Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
 of money for charity from my home music studio
