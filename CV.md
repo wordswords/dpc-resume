@@ -1,81 +1,86 @@
-# David Craddock BSc(Hons)
+# David Craddock
 ## Senior DevSecOps Engineer
 
 ------
 
 ### Profile {#profile}
 
-Experienced Senior DevOps engineer looking for DevSecOps roles
+Experienced Senior DevOps engineer looking for DevSecOps / Red Team Cyber Security roles.
 
 ------
 
-### Recent Experience {#experience}
+### Experience {#experience}
 
 Royal Holloway, University of London
-: *MSc Cyber Security distance student*
-___Sept 2024 -> Present___
-Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform.
+: *MSc Cyber Security - evenings distance learning student*
+__Sept 2024 -> Present__
+  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform.
 
 Various
 : *Principal Consulting Engineer*
-___Jan 2024 -> Oct 2024___
-1) Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
-2) Up-skilled in cloud and DevOps technologies, including studying for the AWS Architect Associate Certification.
-3) Decided that the atmosphere was not for me, and left to pursue other opportunities.
+__Jan 2024 -> Oct 2024__
+  Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
+  Upskilled in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
+  Decided that the atmosphere was not for me, and left to pursue other opportunities.
 
 Sabbatical
 : *Personal Projects*
-___Feb 2023 -> Jan 2024___
-1) Beat cancer (full remission, cured)
-2) Worked on up-skilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
-3) Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/vWorkbench.git)
-4) Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
+__Feb 2023 -> Jan 2024__
+  Beat cancer (full remission, cured)
+  Worked on upskilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
+  Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/vWorkbench.git)
+  Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
 of money for charity from my home music studio
 
 Kaboodle Ltd
 : *Senior DevOps Automation Engineer*
-___Jan 2021 -> Jan 2023___
-1) Working in the DevOps team, I used Docker, Docker Compose, GitHub Actions, Jenkins, Cypress.io, Postman, Newman and Node.js to implement test automation and software development DevOps, with an objective of allowing the team to deliver faster and more accurately.
-2) I developed an extensive and advanced technical testing strategy for the entire organisation.
+__Jan 2021 -> Jan 2023__
+  Working in the DevOps team, I used Docker, Docker Compose, GitHub Actions, Jenkins, Cypress.io, Postman, Newman and Node.js to implement test automation and software development DevOps, with an objective of allowing the team to deliver faster and more accurately.
+  I developed an extensive and advanced technical testing strategy for the entire organisation.
 
 ITV Plc
 : *QA Engineer*
-___October 2019 -> November 2020___
-1) Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.
+__October 2019 -> November 2020__
+  Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.
 
 Arm Ltd (now NVIDIA)
 : *Senior DevOps/Test Engineer*
-___June 2017 -> October 2019___
-1) A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
-2) I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.
+__June 2017 -> October 2019__
+  A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
+  I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.
 
 BBC
 : *Senior Software Engineer*
-___September 2010 -> June 2017___
-1) I spent almost 7 years working at the BBC as a Senior Software Engineer. I worked in several teams. I took a Senior Engineer role in [Hive CI](https://github.com/bbc/hive-ci), a continuous integration system to automate mobile and smart TV device testing. This involved development in Node.js and Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS, Android, iOS, Linux, Bash, Ruby.
-2) I spent a year working as a Test Manager and leading a team of 3 contractors, being responsible for their output. I worked as a Software Engineer on high volume Smart TV web applications using Java/Spring/Tomcat, using BDD with Ruby/Cucumber and TDD with JUnit and Mockito.
-3) I worked as a Software Reliability Engineer on the broadcast end of the BBC's architecture, maintaining and supporting the uptime of systems which served up content that is delivered on live BBC TV. I patched these systems in Java, Perl and MHEG, and did a lot of work reconfiguring and supporting these deployments.
+__September 2010 -> June 2017__
+  I took a Senior Engineer role in [Hive CI](https://github.com/bbc/hive-ci), a continuous integration system to automate mobile and smart TV device testing. This involved development in Node.js and Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS, Android, iOS, Linux, Bash, Ruby.
+  I spent a year working as a Test Manager and leading a team of 3 contractors, being responsible for their output.
+  I worked as a Software Engineer on high volume Smart TV web applications using Java/Spring/Tomcat, using BDD with Ruby/Cucumber and TDD with JUnit and Mockito.
+  I worked as a Software Reliability Engineer on the broadcast end of the BBC's architecture, maintaining and supporting the uptime of systems which served up content that is delivered on live BBC TV. I patched these systems in Java, Perl and MHEG, and did a lot of work reconfiguring and supporting these deployments.
 
-### Education {#experience}
+------
+
+### Education {#education}
 
 Royal Holloway, University of London
 : *MSc Cyber Security - 4 year low intensity distance learning*
-___2024 -> Present___
+__2024 -> Present__
 
 Point Blank Music School Online
 : *Undergrad Modules in BA Sound Engineering & Music Production*
-___2019 -> 2024___
+__2019 -> 2024__
 
 Open University
 : *Undergrad Modules in Linux, Java and Maths for Science*
-___2010 -> 2013___
+__2010 -> 2013__
 
 University of Sussex
 : *BSc(Hons) Computer Science and Artificial Intelligence*
-___2001 -> 2005___
+__2001 -> 2005__
 
 
-### Testimonials {#experience}
+------
+
+### Testimonials {#testimonials}
 
 CGI UK Ltd
 : *Lloyd Swale / Software Engineer*
@@ -101,4 +106,11 @@ for the compiler. He suggested and implemented new tests to improve the compiler
 BBC
 : *Angus Bisset / Broadcast Engineering Team Leader*
 "David is a highly skilled software engineer, with a calm and considered demeanour, always able to tackle the most complicated engineering problems, even in high pressure situations. He's a pleasure to work with and a great asset to any team fortunate enough to have him."
+
+------
+
+### Footer {#footer}
+
+-- [Email Me](mailto:ywbgwnx80@mozmail.com) -- Created with [https://github.com/wordwords/markdown-resume-2024.git](https://github.com/wordswords/markdown-resume-2024.git)
+
 

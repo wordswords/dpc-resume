@@ -3,9 +3,28 @@
 <head>
 <meta charset="utf-8">
 
-<title> | </title>
+<title>David Craddock | Senior DevSecOps Engineer</title>
 <style type="text/css">
+/*---------------------------------------------------
+    LESS Elements 0.6
+  ---------------------------------------------------
+    A set of useful LESS mixins by Dmitry Fadeyev
+    Special thanks for mixin suggestions to:
+      Kris Van Herzeele,
+      Benoit Adam,
+      Portenart Emile-Victor,
+      Ryan Faerman
 
+    More info at: http://lesselements.com
+-----------------------------------------------------*/
+
+/*! normalize.css 2012-02-07T12:37 UTC - http://github.com/necolas/normalize.css */
+/* =============================================================================
+   HTML5 display definitions
+   ========================================================================== */
+/*
+ * Corrects block display not defined in IE6/7/8/9 & FF3
+ */
 article,
 aside,
 details,
@@ -19,6 +38,9 @@ section,
 summary {
   display: block;
 }
+/*
+ * Corrects inline-block display not defined in IE6/7/8/9 & FF3
+ */
 audio,
 canvas,
 video {
@@ -26,17 +48,39 @@ video {
   *display: inline;
   *zoom: 1;
 }
+/*
+ * Prevents modern browsers from displaying 'audio' without controls
+ */
 audio:not([controls]) {
   display: none;
 }
+/*
+ * Addresses styling for 'hidden' attribute not present in IE7/8/9, FF3, S4
+ * Known issue: no IE6 support
+ */
 [hidden] {
   display: none;
 }
+/* =============================================================================
+   Base
+   ========================================================================== */
+/*
+ * 1. Corrects text resizing oddly in IE6/7 when body font-size is set using em units
+ *    http://clagnut.com/blog/348/#c790
+ * 2. Prevents iOS text size adjust after orientation change, without disabling user zoom
+ *    www.456bereastreet.com/archive/201012/controlling_text_size_in_safari_for_ios_without_disabling_user_zoom/
+ */
 html {
   font-size: 100%;
+  /* 1 */
   -webkit-text-size-adjust: 100%;
+  /* 2 */
   -ms-text-size-adjust: 100%;
+  /* 2 */
 }
+/*
+ * Addresses font-family inconsistency between 'textarea' and other form elements.
+ */
 html,
 button,
 input,
@@ -44,16 +88,36 @@ select,
 textarea {
   font-family: sans-serif;
 }
+/*
+ * Addresses margins handled incorrectly in IE6/7
+ */
 body {
   margin: 0;
 }
+/* =============================================================================
+   Links
+   ========================================================================== */
+/*
+ * Addresses outline displayed oddly in Chrome
+ */
 a:focus {
   outline: thin dotted;
 }
+/*
+ * Improves readability when focused and also mouse hovered in all browsers
+ * people.opera.com/patrickl/experiments/keyboard/test
+ */
 a:hover,
 a:active {
   outline: 0;
 }
+/* =============================================================================
+   Typography
+   ========================================================================== */
+/*
+ * Addresses font sizes and margins set differently in IE6/7
+ * Addresses font sizes within 'section' and 'article' in FF4+, Chrome, S5
+ */
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
@@ -78,9 +142,15 @@ h6 {
   font-size: 0.75em;
   margin: 2.33em 0;
 }
+/*
+ * Addresses styling not present in IE7/8/9, S5, Chrome
+ */
 abbr[title] {
   border-bottom: 1px dotted;
 }
+/*
+ * Addresses style set to 'bolder' in FF3+, S4/5, Chrome
+*/
 b,
 strong {
   font-weight: bold;
@@ -88,17 +158,30 @@ strong {
 blockquote {
   margin: 1em 40px;
 }
+/*
+ * Addresses styling not present in S5, Chrome
+ */
 dfn {
   font-style: italic;
 }
+/*
+ * Addresses styling not present in IE6/7/8/9
+ */
 mark {
   background: #ff0;
   color: #000;
 }
+/*
+ * Addresses margins set differently in IE6/7
+ */
 p,
 pre {
   margin: 1em 0;
 }
+/*
+ * Corrects font family set oddly in IE6, S4/5, Chrome
+ * en.wikipedia.org/wiki/User:Davidgothberg/Test59
+ */
 pre,
 code,
 kbd,
@@ -107,14 +190,23 @@ samp {
   _font-family: 'courier new', monospace;
   font-size: 1em;
 }
+/*
+ * Improves readability of pre-formatted text in all browsers
+ */
 pre {
   white-space: pre;
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+/*
+ * 1. Addresses CSS quotes not supported in IE6/7
+ * 2. Addresses quote property not supported in S4
+ */
+/* 1 */
 q {
   quotes: none;
 }
+/* 2 */
 q:before,
 q:after {
   content: '';
@@ -123,6 +215,10 @@ q:after {
 small {
   font-size: 75%;
 }
+/*
+ * Prevents sub and sup affecting line-height in all browsers
+ * gist.github.com/413930
+ */
 sub,
 sup {
   font-size: 75%;
@@ -136,6 +232,12 @@ sup {
 sub {
   bottom: -0.25em;
 }
+/* =============================================================================
+   Lists
+   ========================================================================== */
+/*
+ * Addresses margins set differently in IE6/7
+ */
 dl,
 menu,
 ol,
@@ -145,91 +247,193 @@ ul {
 dd {
   margin: 0 0 0 40px;
 }
+/*
+ * Addresses paddings set differently in IE6/7
+ */
 menu,
 ol,
 ul {
   padding: 0 0 0 40px;
 }
+/*
+ * Corrects list images handled incorrectly in IE7
+ */
 nav ul,
 nav ol {
   list-style: none;
   list-style-image: none;
 }
+/* =============================================================================
+   Embedded content
+   ========================================================================== */
+/*
+ * 1. Removes border when inside 'a' element in IE6/7/8/9, FF3
+ * 2. Improves image quality when scaled in IE7
+ *    code.flickr.com/blog/2008/11/12/on-ui-quality-the-little-things-client-side-image-resizing/
+ */
 img {
   border: 0;
+  /* 1 */
   -ms-interpolation-mode: bicubic;
+  /* 2 */
 }
+/*
+ * Corrects overflow displayed oddly in IE9
+ */
 svg:not(:root) {
   overflow: hidden;
 }
+/* =============================================================================
+   Figures
+   ========================================================================== */
+/*
+ * Addresses margin not present in IE6/7/8/9, S5, O11
+ */
 figure {
   margin: 0;
 }
+/* =============================================================================
+   Forms
+   ========================================================================== */
+/*
+ * Corrects margin displayed oddly in IE6/7
+ */
 form {
   margin: 0;
 }
+/*
+ * Define consistent border, margin, and padding
+ */
 fieldset {
   border: 1px solid #c0c0c0;
   margin: 0 2px;
   padding: 0.35em 0.625em 0.75em;
 }
+/*
+ * 1. Corrects color not being inherited in IE6/7/8/9
+ * 2. Corrects text not wrapping in FF3 
+ * 3. Corrects alignment displayed oddly in IE6/7
+ */
 legend {
   border: 0;
+  /* 1 */
   padding: 0;
   white-space: normal;
+  /* 2 */
   *margin-left: -7px;
+  /* 3 */
 }
+/*
+ * 1. Corrects font size not being inherited in all browsers
+ * 2. Addresses margins set differently in IE6/7, FF3+, S5, Chrome
+ * 3. Improves appearance and consistency in all browsers
+ */
 button,
 input,
 select,
 textarea {
   font-size: 100%;
+  /* 1 */
   margin: 0;
+  /* 2 */
   vertical-align: baseline;
+  /* 3 */
   *vertical-align: middle;
+  /* 3 */
 }
+/*
+ * Addresses FF3/4 setting line-height on 'input' using !important in the UA stylesheet
+ */
 button,
 input {
   line-height: normal;
+  /* 1 */
 }
+/*
+ * 1. Improves usability and consistency of cursor style between image-type 'input' and others
+ * 2. Corrects inability to style clickable 'input' types in iOS
+ * 3. Removes inner spacing in IE7 without affecting normal text inputs
+ *    Known issue: inner spacing remains in IE6
+ */
 button,
 input[type="button"],
 input[type="reset"],
 input[type="submit"] {
   cursor: pointer;
+  /* 1 */
   -webkit-appearance: button;
+  /* 2 */
   *overflow: visible;
+  /* 3 */
 }
+/*
+ * Re-set default cursor for disabled elements
+ */
 button[disabled],
 input[disabled] {
   cursor: default;
 }
+/*
+ * 1. Addresses box sizing set to content-box in IE8/9
+ * 2. Removes excess padding in IE8/9
+ * 3. Removes excess padding in IE7
+      Known issue: excess padding remains in IE6
+ */
 input[type="checkbox"],
 input[type="radio"] {
   box-sizing: border-box;
+  /* 1 */
   padding: 0;
+  /* 2 */
   *height: 13px;
+  /* 3 */
   *width: 13px;
+  /* 3 */
 }
+/*
+ * 1. Addresses appearance set to searchfield in S5, Chrome
+ * 2. Addresses box-sizing set to border-box in S5, Chrome (include -moz to future-proof)
+ */
 input[type="search"] {
   -webkit-appearance: textfield;
+  /* 1 */
   -moz-box-sizing: content-box;
   -webkit-box-sizing: content-box;
+  /* 2 */
   box-sizing: content-box;
 }
+/*
+ * Removes inner padding and search cancel button in S5, Chrome on OS X
+ */
 input[type="search"]::-webkit-search-decoration,
 input[type="search"]::-webkit-search-cancel-button {
   -webkit-appearance: none;
 }
+/*
+ * Removes inner padding and border in FF3+
+ * www.sitepen.com/blog/2008/05/14/the-devils-in-the-details-fixing-dojos-toolbar-buttons/
+ */
 button::-moz-focus-inner,
 input::-moz-focus-inner {
   border: 0;
   padding: 0;
 }
+/*
+ * 1. Removes default vertical scrollbar in IE6/7/8/9
+ * 2. Improves readability and alignment in all browsers
+ */
 textarea {
   overflow: auto;
+  /* 1 */
   vertical-align: top;
+  /* 2 */
 }
+/* =============================================================================
+   Tables
+   ========================================================================== */
+/*
+ * Remove most spacing between table cells
+ */
 table {
   border-collapse: collapse;
   border-spacing: 0;
@@ -274,7 +478,7 @@ body.pdf h3 {
   width: 20%;
   font-style: normal;
 }
-body.pdf h3+p {
+body.pdf h3 + p {
   float: left;
   width: 80%;
 }
@@ -290,7 +494,7 @@ body.pdf ul dl {
 body.pdf ul dl dt {
   font-size: 122%;
   font-weight: normal;
-  margin: 0 0 .75em;
+  margin: 0 0 0.75em;
 }
 body.pdf ul dl dd {
   padding: 0 4em 0 0;
@@ -298,7 +502,7 @@ body.pdf ul dl dd {
 body.pdf ol {
   float: left;
   width: 80%;
-  margin: .7em 0 0;
+  margin: 0.7em 0 0;
 }
 body.pdf ol li {
   width: 33%;
@@ -313,7 +517,7 @@ body.pdf ol li:nth-child(3) {
   border-top: none;
 }
 body.pdf dl {
-  margin: .7em 0 0;
+  margin: 0.7em 0 0;
   page-break-inside: avoid !important;
   display: block;
 }
@@ -413,11 +617,11 @@ h2 {
 }
 h3 {
   margin: 0;
-  padding: 0 0 .5em;
+  padding: 0 0 0.5em;
   font-size: 150%;
   font-weight: bold;
 }
-h3+p {
+h3 + p {
   margin: 0 0 16px;
   padding: 0;
   display: block;
@@ -437,7 +641,7 @@ ul li {
   flex-basis: 33%;
 }
 ul dl {
-  margin: .3em 0 0;
+  margin: 0.3em 0 0;
   padding: 0;
   width: 100%;
 }
@@ -447,12 +651,12 @@ ul dl dt {
 ul dl dd {
   margin: 0 0 1em;
   padding: 0 2em 0 0;
-  font-size: .8em;
+  font-size: 0.8em;
   line-height: 1.5em;
 }
 ol {
   margin: 0;
-  padding: 0 0 .75em;
+  padding: 0 0 0.75em;
   width: 80%;
   display: inline-block;
 }
@@ -472,6 +676,7 @@ ol li:nth-child(1) {
 dl {
   float: left;
   display: block;
+  /*display: inline-block;*/
   width: 75%;
   margin: 0;
   padding: 0;
@@ -493,7 +698,7 @@ dl strong {
 dl em {
   display: block;
   font-size: 110%;
-  margin: .15em 0 .5em;
+  margin: 0.15em 0 0.5em;
   font-style: bold;
 }
 dl dd li {
@@ -531,6 +736,21 @@ ul li dt {
   text-align: center;
 }
 
+/*
+  Mobile layout
+  240–479 px
+  Zoomed out below 320 px
+*/
+/*
+  Wide mobile layout
+  480-767 px
+  Zoomed in above 480 px
+*/
+/*
+  Tablet layout
+  600-911 px
+  Zoomed in above 600 px
+*/
 @media screen and (min-width: 37.5em) {
   body {
     padding: 2em 0;
@@ -541,7 +761,8 @@ ul li dt {
     position: absolute;
   }
   h1 {
-    margin-top: .5em;
+    /* Open up the top section height so we don't collapse on the blockquote */
+    margin-top: 0.5em;
   }
   ol {
     margin: 0 0 0 1em;
@@ -555,6 +776,11 @@ ul li dt {
     border-top: none;
   }
 }
+/*
+  Widescreen layout
+  912-1887 px
+  Zoomed in above 912 px
+*/
 @media screen and (min-width: 57em) {
   .container {
     width: 912px;
@@ -581,14 +807,14 @@ ul li dt {
     float: left;
     width: 20%;
   }
-  h3+p {
+  h3 + p {
     float: left;
     width: 80%;
   }
   ul dl dt {
     font-size: 122%;
     font-weight: normal;
-    margin-bottom: .75em;
+    margin-bottom: 0.75em;
   }
   ul dl dd {
     padding: 0 4em 0 0;
@@ -596,7 +822,7 @@ ul li dt {
   ol {
     float: left;
     width: 80%;
-    margin: .6em 0 0;
+    margin: 0.6em 0 0;
   }
   ol li {
     width: 33%;
@@ -610,6 +836,9 @@ ul li dt {
   ol li:nth-child(3) {
     border-top: none;
   }
+  dl {
+    /*margin: .5em 0 0;*/
+  }
   dl strong {
     float: right;
     margin-top: -2em;
@@ -619,6 +848,11 @@ ul li dt {
     font-style: normal;
   }
 }
+/*
+  Huge-screen layout
+  1888-2520 px
+  Zoomed in above 1920 px
+*/
 
 </style>
 </head>
@@ -627,7 +861,7 @@ ul li dt {
 
 <div class="container">
     <div class="resume">
-        <h1>David Craddock BSc(Hons)</h1>
+        <h1>David Craddock</h1>
 
 <h2>Senior DevSecOps Engineer</h2>
 
@@ -635,80 +869,85 @@ ul li dt {
 
 <h3 id="profile">Profile</h3>
 
-<p>Experienced Senior DevOps engineer looking for DevSecOps roles</p>
+<p>Experienced Senior DevOps engineer looking for DevSecOps / Red Team Cyber Security roles.</p>
 
 <hr />
 
-<h3 id="experience">Recent Experience</h3>
+<h3 id="experience">Experience</h3>
 
 <dl>
 <dt>Royal Holloway, University of London</dt>
-<dd><em>MSc Cyber Security distance student</em>
-<strong><em>Sept 2024 -> Present</em></strong>
+<dd><em>MSc Cyber Security - evenings distance learning student</em>
+<strong>Sept 2024 -> Present</strong>
 Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London&#8217;s Distance Learning platform.</dd>
 
 <dt>Various</dt>
 <dd><em>Principal Consulting Engineer</em>
-<strong><em>Jan 2024 -> Oct 2024</em></strong>
-1) Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
-2) Up-skilled in cloud and DevOps technologies, including studying for the AWS Architect Associate Certification.
-3) Decided that the atmosphere was not for me, and left to pursue other opportunities.</dd>
+<strong>Jan 2024 -> Oct 2024</strong>
+Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
+Upskilled in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
+Decided that the atmosphere was not for me, and left to pursue other opportunities.</dd>
 
 <dt>Sabbatical</dt>
 <dd><em>Personal Projects</em>
-<strong><em>Feb 2023 -> Jan 2024</em></strong>
-1) Beat cancer (full remission, cured)
-2) Worked on up-skilling on personal projects such as my <a href="https://davidcraddock.net/my-home-network/">home lab</a>
-3) Worked on building out my VWorkbench project, a extensive <a href="https://github.com/wordswords/vWorkbench.git">Linux development environment</a>
-4) Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
+<strong>Feb 2023 -> Jan 2024</strong>
+Beat cancer (full remission, cured)
+Worked on upskilling on personal projects such as my <a href="https://davidcraddock.net/my-home-network/">home lab</a>
+Worked on building out my VWorkbench project, a extensive <a href="https://github.com/wordswords/vWorkbench.git">Linux development environment</a>
+Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
 of money for charity from my home music studio</dd>
 
 <dt>Kaboodle Ltd</dt>
 <dd><em>Senior DevOps Automation Engineer</em>
-<strong><em>Jan 2021 -> Jan 2023</em></strong>
-1) Working in the DevOps team, I used Docker, Docker Compose, GitHub Actions, Jenkins, Cypress.io, Postman, Newman and Node.js to implement test automation and software development DevOps, with an objective of allowing the team to deliver faster and more accurately.
-2) I developed an extensive and advanced technical testing strategy for the entire organisation.</dd>
+<strong>Jan 2021 -> Jan 2023</strong>
+Working in the DevOps team, I used Docker, Docker Compose, GitHub Actions, Jenkins, Cypress.io, Postman, Newman and Node.js to implement test automation and software development DevOps, with an objective of allowing the team to deliver faster and more accurately.
+I developed an extensive and advanced technical testing strategy for the entire organisation.</dd>
 
 <dt>ITV Plc</dt>
 <dd><em>QA Engineer</em>
-<strong><em>October 2019 -> November 2020</em></strong>
-1) Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.</dd>
+<strong>October 2019 -> November 2020</strong>
+Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.</dd>
 
 <dt>Arm Ltd (now NVIDIA)</dt>
 <dd><em>Senior DevOps/Test Engineer</em>
-<strong><em>June 2017 -> October 2019</em></strong>
-1) A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
-2) I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.</dd>
+<strong>June 2017 -> October 2019</strong>
+A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
+I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.</dd>
 
 <dt>BBC</dt>
 <dd><em>Senior Software Engineer</em>
-<strong><em>September 2010 -> June 2017</em></strong>
-1) I spent almost 7 years working at the BBC as a Senior Software Engineer. I worked in several teams. I took a Senior Engineer role in <a href="https://github.com/bbc/hive-ci">Hive CI</a>, a continuous integration system to automate mobile and smart TV device testing. This involved development in Node.js and Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS, Android, iOS, Linux, Bash, Ruby.
-2) I spent a year working as a Test Manager and leading a team of 3 contractors, being responsible for their output. I worked as a Software Engineer on high volume Smart TV web applications using Java/Spring/Tomcat, using BDD with Ruby/Cucumber and TDD with JUnit and Mockito.
-3) I worked as a Software Reliability Engineer on the broadcast end of the BBC&#8217;s architecture, maintaining and supporting the uptime of systems which served up content that is delivered on live BBC TV. I patched these systems in Java, Perl and MHEG, and did a lot of work reconfiguring and supporting these deployments.</dd>
+<strong>September 2010 -> June 2017</strong>
+I took a Senior Engineer role in <a href="https://github.com/bbc/hive-ci">Hive CI</a>, a continuous integration system to automate mobile and smart TV device testing. This involved development in Node.js and Ruby, on a virtualised Linux stack. Technologies used: Calabash, Appium, AWS, Android, iOS, Linux, Bash, Ruby.
+I spent a year working as a Test Manager and leading a team of 3 contractors, being responsible for their output.
+I worked as a Software Engineer on high volume Smart TV web applications using Java/Spring/Tomcat, using BDD with Ruby/Cucumber and TDD with JUnit and Mockito.
+I worked as a Software Reliability Engineer on the broadcast end of the BBC&#8217;s architecture, maintaining and supporting the uptime of systems which served up content that is delivered on live BBC TV. I patched these systems in Java, Perl and MHEG, and did a lot of work reconfiguring and supporting these deployments.</dd>
 </dl>
 
-<h3 id="experience">Education</h3>
+<hr />
+
+<h3 id="education">Education</h3>
 
 <dl>
 <dt>Royal Holloway, University of London</dt>
 <dd><em>MSc Cyber Security - 4 year low intensity distance learning</em>
-<strong><em>2024 -> Present</em></strong></dd>
+<strong>2024 -> Present</strong></dd>
 
 <dt>Point Blank Music School Online</dt>
 <dd><em>Undergrad Modules in BA Sound Engineering &amp; Music Production</em>
-<strong><em>2019 -> 2024</em></strong></dd>
+<strong>2019 -> 2024</strong></dd>
 
 <dt>Open University</dt>
 <dd><em>Undergrad Modules in Linux, Java and Maths for Science</em>
-<strong><em>2010 -> 2013</em></strong></dd>
+<strong>2010 -> 2013</strong></dd>
 
 <dt>University of Sussex</dt>
 <dd><em>BSc(Hons) Computer Science and Artificial Intelligence</em>
-<strong><em>2001 -> 2005</em></strong></dd>
+<strong>2001 -> 2005</strong></dd>
 </dl>
 
-<h3 id="experience">Testimonials</h3>
+<hr />
+
+<h3 id="testimonials">Testimonials</h3>
 
 <dl>
 <dt>CGI UK Ltd</dt>
@@ -736,6 +975,12 @@ for the compiler. He suggested and implemented new tests to improve the compiler
 <dd><em>Angus Bisset / Broadcast Engineering Team Leader</em>
 &#8220;David is a highly skilled software engineer, with a calm and considered demeanour, always able to tackle the most complicated engineering problems, even in high pressure situations. He&#8217;s a pleasure to work with and a great asset to any team fortunate enough to have him.&#8221;</dd>
 </dl>
+
+<hr />
+
+<h3 id="footer">Footer</h3>
+
+<p>&#8212; <a href="&#109;&#x61;&#105;&#108;&#x74;&#111;&#x3a;y&#119;&#x62;&#103;&#x77;&#x6e;&#120;&#x38;0&#64;&#x6d;&#111;&#x7a;&#x6d;&#97;&#x69;&#108;&#46;&#x63;&#111;&#x6d;">Email Me</a> &#8212; Created with <a href="https://github.com/wordswords/markdown-resume-2024.git">https://github.com/wordwords/markdown-resume-2024.git</a></p>
 
     </div>
 </div>
