@@ -1,11 +1,11 @@
 # David Craddock
-## Senior DevSecOps Engineer
+## Senior DevOps Engineer
 
 ------
 
 ### Profile {#profile}
 
-Experienced Senior DevOps engineer looking for DevSecOps / Red Team Cyber Security roles.
+Experienced Senior DevOps engineer looking for DevOps / DevSecOps roles
 
 ------
 
@@ -17,7 +17,7 @@ __Sept 2024 -> Present__
   Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform.
 
 Various
-: *Principal Consulting Engineer*
+: *Consulting Engineer*
 __Jan 2024 -> Oct 2024__
   Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
   Upskilled in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
