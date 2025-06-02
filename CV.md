@@ -5,23 +5,22 @@
 
 ### Profile {#profile}
 
-Experienced Senior DevOps engineer looking for DevOps / DevSecOps roles
+Highly experienced SC-cleared technical Senior QA/DevOps engineer looking for technical leadership roles
 
 ------
 
 ### Experience {#experience}
 
 Royal Holloway, University of London
-: *MSc Cyber Security - evenings distance learning student*
-__Sept 2024 -> Present__
-  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform.
+: *MSc Cyber Security - distance learning student*
+__Sept 2024 -> __June 2025__
+  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. This included heavily upskilling in GenAI-assisted coding and learning.
 
 Various
-: *Consulting Engineer*
+: *Principal QA/DevOps Consulting Engineer*
 __Jan 2024 -> Oct 2024__
   Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
-  Upskilled in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
-  Decided that the atmosphere was not for me, and left to pursue other opportunities.
+  Worked on developing test strategies, mentoring, and upskilling in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
 
 Sabbatical
 : *Personal Projects*
@@ -29,11 +28,9 @@ __Feb 2023 -> Jan 2024__
   Beat cancer (full remission, cured)
   Worked on upskilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
   Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/vWorkbench.git)
-  Worked part-time in the music industry DJing on Twitch.tv, earning money every week and also raising a lot
-of money for charity from my home music studio
 
 Kaboodle Ltd
-: *Senior DevOps Automation Engineer*
+: *Senior DevOps/Test Automation Engineer*
 __Jan 2021 -> Jan 2023__
   Working in the DevOps team, I used Docker, Docker Compose, GitHub Actions, Jenkins, Cypress.io, Postman, Newman and Node.js to implement test automation and software development DevOps, with an objective of allowing the team to deliver faster and more accurately.
   I developed an extensive and advanced technical testing strategy for the entire organisation.
@@ -44,7 +41,7 @@ __October 2019 -> November 2020__
   Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.
 
 Arm Ltd (now NVIDIA)
-: *Senior DevOps/Test Engineer*
+: *Senior DevOps/QA Engineer*
 __June 2017 -> October 2019__
   A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
   I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.
@@ -65,17 +62,11 @@ Royal Holloway, University of London
 : *MSc Cyber Security - 4 year low intensity distance learning*
 __2024 -> Present__
 
-Point Blank Music School Online
-: *Undergrad Modules in BA Sound Engineering & Music Production*
-__2019 -> 2024__
-
 Open University
 : *Undergrad Modules in Linux, Java and Maths for Science*
-__2010 -> 2013__
 
 University of Sussex
 : *BSc(Hons) Computer Science and Artificial Intelligence*
-__2001 -> 2005__
 
 
 ------
