@@ -1,11 +1,11 @@
 # David Craddock
-## Senior DevOps Engineer
+## Senior QA/DevOps Engineer
 
 ------
 
 ### Profile {#profile}
 
-Highly experienced SC-cleared technical Senior QA/DevOps engineer looking for technical leadership roles
+Highly experienced SC-cleared technical Senior QA/DevOps engineer looking for technical leader roles
 
 ------
 

@@ -3,7 +3,7 @@
 set -e
 set -x
 
-docker run -t -p 8087:8080 quay.io/ukhomeofficedigital/html-pdf-converter:v2.4.3 &
+docker run -t -p 8087:8080 quay.io/ukhomeofficedigital/html-pdf-converter:v2.4.3 || echo '' &
 
 sleep 120
 
