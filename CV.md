@@ -6,7 +6,7 @@
 ### Profile {#profile}
 
 Highly experienced technical Senior QA/DevOps engineer looking for technical leader roles
-WFH preferred. Active SC held. 
+| WFH preferred | Active SC held. 
 
 ------
 
