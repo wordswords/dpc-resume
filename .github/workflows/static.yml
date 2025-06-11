@@ -3,7 +3,11 @@ jobs:
   build:
     # <Not provided for brevity>
     # At a minimum this job should upload artifacts using actions/upload-pages-artifact
-
+    #
+  on:
+    push:
+      branches:
+        - '*'
   # Deploy job
   deploy:
     # Add a dependency to the build job
