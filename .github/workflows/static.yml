@@ -1,31 +1,37 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # or 'master', adjust as needed
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
 jobs:
-  # Build job
-  build:
-    # <Not provided for brevity>
-    # At a minimum this job should upload artifacts using actions/upload-pages-artifact
-    #
-  on:
-    push:
-      branches:
-        - '*'
-  # Deploy job
+    steps:
+      - uses: actions/checkout@v4
+
+      # Add your build steps here, for example:
+      # - name: Build site
+      #   run: npm ci && npm run build
+      #   # or whatever your build command is
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist  # Change to your build output directory
+
   deploy:
-    # Add a dependency to the build job
     needs: build
-
-    # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
-    permissions:
-      pages: write      # to deploy to Pages
-      id-token: write   # to verify the deployment originates from an appropriate source
-
-    # Deploy to the github-pages environment
+    runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: https://wordswords.github.io/dpc-resume
-
-    # Specify runner + deployment step
-    runs-on: ubuntu-latest
+      url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4 # or specific "vX.X.X" version tag for this action
+        uses: actions/deploy-pages@v4
+
