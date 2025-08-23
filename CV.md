@@ -6,7 +6,7 @@
 ### Profile {#profile}
 
 Highly experienced technical Senior QA/DevOps engineer looking for technical leader roles
-| WFH preferred | Active SC held 
+| WFH preferred | Active SC held
 
 ------
 
@@ -15,7 +15,7 @@ Highly experienced technical Senior QA/DevOps engineer looking for technical lea
 Royal Holloway, University of London
 : *MSc Cyber Security - distance learning student*
 __Sept 2024 -> June 2025__
-  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. This included heavily upskilling in GenAI-assisted coding and learning.
+  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. Involved in the University of London student-run Cyber Security society as Vice President. Also upskilling heavily on GenAI and modern AI approaches in preparation to undertake a thesis on Cyber Security in GenAI.
 
 Various
 : *Principal QA/DevOps Consulting Engineer*
@@ -103,6 +103,6 @@ BBC
 
 ### Footer {#footer}
 
--- [Email Me](mailto:ywbgwnx80@mozmail.com) -- Created with [https://github.com/wordwords/markdown-resume-2024.git](https://github.com/wordswords/markdown-resume-2024.git)
+-- [ywbgwnx80@mozmail.com](mailto:ywbgwnx80@mozmail.com) -- Created with [https://github.com/wordwords/markdown-resume-2024.git](https://github.com/wordswords/markdown-resume-2024.git)
 
 
