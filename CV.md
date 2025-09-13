@@ -103,6 +103,6 @@ BBC
 
 ### Footer {#footer}
 
--- [ywbgwnx80@mozmail.com](mailto:ywbgwnx80@mozmail.com) -- Created with [https://github.com/wordwords/markdown-resume-2024.git](https://github.com/wordswords/markdown-resume-2024.git)
+-- Email David Craddock at: [ywbgwnx80@mozmail.com](mailto:ywbgwnx80@mozmail.com) -- Created with [David Craddock's custom CV formatter](https://github.com/wordwords/dpc-resume.git)
 
 
