@@ -4,6 +4,8 @@
 
 This is a script to generate my CV in HTML and PDF formats from a markdown file I maintain.
 
+It uses a home office open source docker container to convert HTML -> PDF, and my modified version of a markdown resume convertor I found online, to convert markdown to HTML. 
+
 ## Usage
 
 1. Edit `CV.md` to your liking
