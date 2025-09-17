@@ -1,5 +1,5 @@
 # David Craddock
-## Senior QA/DevOps Engineer
+## Aspiring Cyber Security Researcher/AppSec/Red Teamer
 
 ------
 
