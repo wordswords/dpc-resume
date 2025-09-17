@@ -14,5 +14,5 @@ It uses a [UK Gov Home Office open source docker container](https://quay.io/ukho
 # My Current Resume / CV
 
 * In Markdown - [https://github.com/wordswords/dpc-resume/blob/master/CV.md](https://github.com/wordswords/dpc-resume/blob/master/CV.md)
-* In HTML - [https://github.com/wordswords/dpc-resume/blob/master/CV.html](https://github.com/wordswords/dpc-resume/blob/master/CV.html).
+* In HTML - [https://github.com/wordswords/dpc-resume/blob/master/CV.html](https://github.com/wordswords/dpc-resume/blob/master/CV.html)
 * In PDF [https://github.com/wordswords/dpc-resume/blob/master/CV.pdf](https://github.com/wordswords/dpc-resume/blob/master/CV.pdf)
