@@ -5,7 +5,7 @@
 
 ### Profile {#profile}
 
-Highly experienced technical Senior QA/DevOps engineer looking for technical leader roles
+Highly experienced technical Principal Software Engineer engineer looking for a transition into technical software-related cyber security roles
 | WFH preferred | Active SC held
 
 ------
