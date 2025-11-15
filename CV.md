@@ -1,4 +1,4 @@
-# David Craddock
+# David Craddock BSc(Hons) MBCS
 ## Aspiring Cyber Security Researcher/AppSec/Red Teamer
 
 ------
@@ -6,7 +6,7 @@
 ### Profile {#profile}
 
 Highly experienced technical Principal Software Engineer engineer looking for a transition into technical software-related cyber security roles
-| WFH preferred | Active SC held
+| WFH preferred | Active SC held | Working towards BCS CITP status
 
 ------
 
