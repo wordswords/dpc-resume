@@ -14,7 +14,7 @@ Highly experienced technical Principal Software Engineer engineer looking for a 
 
 Royal Holloway, University of London
 : *MSc Cyber Security - distance learning student*
-__Sept 2024 -> June 2025__
+__Sept 2024 -> Present__
   Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. Involved in the University of London student-run Cyber Security society as Vice President. Also upskilling heavily on GenAI and modern AI approaches in preparation to undertake a thesis on Cyber Security in GenAI.
 
 Various
