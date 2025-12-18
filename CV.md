@@ -6,7 +6,7 @@
 ### Profile {#profile}
 
 Highly experienced technical Principal Software Engineer engineer looking for a transition into technical software-related cyber security roles
-| WFH preferred | Active SC held | Working towards BCS CITP status
+| WFH preferred | Lapsed SC held | Working towards BCS CITP status
 
 ------
 
@@ -15,12 +15,12 @@ Highly experienced technical Principal Software Engineer engineer looking for a 
 Royal Holloway, University of London
 : *MSc Cyber Security - distance learning student*
 __Sept 2024 -> Present__
-  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. Involved in the University of London student-run Cyber Security society as Vice President. Also upskilling heavily on GenAI and modern AI approaches in preparation to undertake a thesis on Cyber Security in GenAI.
+  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. Involved in the University of London student-run Cyber Security society as Vice President. Also undertaking independent research on GenAI and modern AI approaches in preparation to undertake a thesis on GenAI Agents in Blue Team Cyber Security.
 
 Imperial College London
-: *Professional Certificate in AI/ML distance learning student*
+: *Professional Certificate in AI/ML - distance learning student*
 __Dec 2025 -> Present__
-  Realised I needed to upskill in AI/ML/GenAI further to my joint bachelors degree in AI, and so I signed up for this 7 month course at one of the best unviersities in the world for the subject.
+  Realised I needed to upskill in AI/ML/GenAI further to my previous joint bachelors degree in AI, and so I signed up for this 7 month course at one of the best universities in the world for the subject.
 
 Learning Sabbatical
 : *Various*
@@ -33,10 +33,10 @@ __Jan 2024 -> Oct 2024__
   Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
   Worked on developing test strategies, mentoring, and upskilling in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
 
-Sabbatical
+Health Sabbatical
 : *Personal Projects*
 __Feb 2023 -> Jan 2024__
-  Beat cancer (full remission, cured)
+  Beat cancer (full remission, cured) which was a huge personal achievement that necessitated grit and determination against the odds.
   Worked on upskilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
   Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/vWorkbench.git)
 
