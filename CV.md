@@ -51,10 +51,10 @@ ITV Plc
 __October 2019 -> November 2020__
   Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.
 
-Arm Ltd (now NVIDIA)
+Arm Ltd
 : *Senior DevOps/QA Engineer*
 __June 2017 -> October 2019__
-  A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
+  A hands-on very technical software engineering role in this world leading tech company, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
   I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.
 
 BBC
