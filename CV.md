@@ -17,6 +17,16 @@ Royal Holloway, University of London
 __Sept 2024 -> Present__
   Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. Involved in the University of London student-run Cyber Security society as Vice President. Also upskilling heavily on GenAI and modern AI approaches in preparation to undertake a thesis on Cyber Security in GenAI.
 
+Imperial College London
+: *Professional Certificate in AI/ML distance learning student*
+__Dec 2025 -> Present__
+  Realised I needed to upskill in AI/ML/GenAI further to my joint bachelors degree in AI, and so I signed up for this 7 month course at one of the best unviersities in the world for the subject.
+
+Learning Sabbatical
+: *Various*
+__Sept 2024 -> Present__
+  Currently studying for OSCP+ and AWS certificates, alongside the above academic qualifications.
+
 Various
 : *Principal QA/DevOps Consulting Engineer*
 __Jan 2024 -> Oct 2024__
