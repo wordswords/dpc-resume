@@ -79,6 +79,11 @@ Open University
 University of Sussex
 : *BSc(Hons) Computer Science and Artificial Intelligence*
 
+------
+
+### Hobbies {#education}
+
+E-biking, homelab administration, reading, live music.
 
 ------
 
