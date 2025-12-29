@@ -79,11 +79,6 @@ Open University
 University of Sussex
 : *BSc(Hons) Computer Science and Artificial Intelligence*
 
-------
-
-### Hobbies {#education}
-
-E-biking, homelab administration, reading, live music.
 
 ------
 
@@ -113,6 +108,12 @@ for the compiler. He suggested and implemented new tests to improve the compiler
 BBC
 : *Angus Bisset / Broadcast Engineering Team Leader*
 "David is a highly skilled software engineer, with a calm and considered demeanour, always able to tackle the most complicated engineering problems, even in high pressure situations. He's a pleasure to work with and a great asset to any team fortunate enough to have him."
+
+------
+
+### Hobbies {#education}
+
+E-biking, homelab administration, reading, live music.
 
 ------
 
