@@ -11,18 +11,18 @@ permissions:
   id-token: write
 
 jobs:
-    steps:
-      - uses: actions/checkout@v4
+  steps:
+    - uses: actions/checkout@v4
 
-      # Add your build steps here, for example:
-      # - name: Build site
-      #   run: npm ci && npm run build
-      #   # or whatever your build command is
+    # Add your build steps here, for example:
+    # - name: Build site
+    #   run: npm ci && npm run build
+    #   # or whatever your build command is
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: ./dist  # Change to your build output directory
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v3
+      with:
+        path: ./dist  # Change to your build output directory
 
   deploy:
     needs: build
