@@ -1,5 +1,5 @@
-# David Craddock
-## Senior QA/DevOps Engineer
+# David Craddock BSc(Hons) MBCS
+## AI Security Engineer
 
 ------
 
@@ -12,8 +12,18 @@
 
 Royal Holloway, University of London
 : *MSc Cyber Security - distance learning student*
-__Sept 2024 -> June 2025__
-  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. This included heavily upskilling in GenAI-assisted coding and learning.
+__Sept 2024 -> Present__
+  Distance learning student studying a 4 year low-intensity Masters degree in Cyber Security with academic direction from Royal Holloway, in the evenings via the University of London's Distance Learning platform. Involved in the University of London student-run Cyber Security society as Vice President. Also undertaking independent research on GenAI and modern AI approaches in preparation to undertake a thesis on GenAI Agents in Blue Team Cyber Security.
+
+Imperial College London
+: *Professional Certificate in AI/ML - distance learning student*
+__Dec 2025 -> Present__
+  Realised I needed to upskill in AI/ML/GenAI further to my previous joint bachelors degree in AI, and so I signed up for this 7 month course at one of the best universities in the world for the subject.
+
+Learning Sabbatical
+: *Various*
+__Sept 2024 -> Present__
+  Currently studying for OSCP+ and AWS certificates, alongside the above academic qualifications.
 
 Various
 : *Principal QA/DevOps Consulting Engineer*
@@ -21,10 +31,10 @@ __Jan 2024 -> Oct 2024__
   Worked for two major defence and government software consulting organisations (British Aerospace Intelligence Systems and CGI UK Ltd).
   Worked on developing test strategies, mentoring, and upskilling in cloud and devops technologies, including studying for the AWS Architect Associate Certification.
 
-Sabbatical
+Health Sabbatical
 : *Personal Projects*
 __Feb 2023 -> Jan 2024__
-  Beat cancer (full remission, cured)
+  Beat cancer (full remission, cured) which was a huge personal achievement that necessitated grit and determination against the odds.
   Worked on upskilling on personal projects such as my [home lab](https://davidcraddock.net/my-home-network/)
   Worked on building out my VWorkbench project, a extensive [Linux development environment](https://github.com/wordswords/vWorkbench.git)
 
@@ -39,10 +49,10 @@ ITV Plc
 __October 2019 -> November 2020__
   Working on exploratory testing and automated testing for the accounting system that pays the on-screen talent in ITV. I had exposure to: Java, Python, MicroServices, Docker, RabbitMQ, Cucumber, MySQL and some JavaScript.
 
-Arm Ltd (now NVIDIA)
+Arm Ltd
 : *Senior DevOps/QA Engineer*
 __June 2017 -> October 2019__
-  A hands-on very technical software engineering role, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
+  A hands-on very technical software engineering role in this world leading tech company, combining DevOps and CI administration/management, as well as test automation and some elements of exploratory testing, for a High Performance Computing C++/Fortran compiler.
   I used Make, Jenkins, Bash, C++, Python, GoCD and the Robot framework.
 
 BBC
@@ -99,8 +109,14 @@ BBC
 
 ------
 
+### Hobbies {#education}
+
+E-biking, homelab administration, reading, live music.
+
+------
+
 ### Footer {#footer}
 
--- [Email Me](mailto:ywbgwnx80@mozmail.com) -- Created with [https://github.com/wordwords/markdown-resume-2024.git](https://github.com/wordswords/markdown-resume-2024.git)
+-- Email David Craddock at: [ywbgwnx80@mozmail.com](mailto:ywbgwnx80@mozmail.com) -- Created with [David Craddock's custom CV formatter](https://github.com/wordwords/dpc-resume.git)
 
 
