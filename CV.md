@@ -4,9 +4,7 @@
 ------
 
 ### Profile {#profile}
-
-Highly experienced technical Senior QA/DevOps engineer looking for technical leader roles
-| WFH preferred | Active SC held 
+[ AI Security ] { | BSc AI | MSc Cyber Security* | PG cert ML* | 20 years software engineer xp | SC Clearable } (* = in progress)
 
 ------
 
